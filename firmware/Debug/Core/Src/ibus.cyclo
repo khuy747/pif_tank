@@ -1,0 +1,4 @@
+../Core/Src/ibus.c:13:6:iBUS_init	2
+../Core/Src/ibus.c:29:6:iBUS_checkdata	4
+../Core/Src/ibus.c:47:6:iBUS_decode	2
+../Core/Src/ibus.c:65:6:iBUS_parse	8

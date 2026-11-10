@@ -1,0 +1,6 @@
+../Core/Src/icm.c:26:26:icm_write	32	static
+../Core/Src/icm.c:45:26:icm_read	40	static
+../Core/Src/icm.c:65:19:icm_init	24	static
+../Core/Src/icm.c:187:19:icm_readgyro	24	static
+../Core/Src/icm.c:228:19:icm_calibrate_gyro	40	static
+../Core/Src/icm.c:272:19:icm_readall	32	static

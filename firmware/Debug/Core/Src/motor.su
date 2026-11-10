@@ -1,0 +1,5 @@
+../Core/Src/motor.c:16:13:set_pwm	24	static
+../Core/Src/motor.c:27:6:motor_init	8	static
+../Core/Src/motor.c:40:6:motor_set_left	16	static
+../Core/Src/motor.c:43:6:motor_set_right	16	static
+../Core/Src/motor.c:47:6:motor_stop	8	static
